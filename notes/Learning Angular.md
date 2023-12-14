@@ -1,3 +1,5 @@
+Thouse pages are from my Obsidian vault. Didn't fix links and images.
+
 Here is the course with Angular for beginners.
 This course include next pages:
 1. [[00 Introduction to Angular]]
